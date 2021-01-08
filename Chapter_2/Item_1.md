@@ -75,6 +75,7 @@ public class Item_1 {
 
 <details>
 <summary>查看代码</summary>
+
 ```java
 
 public class GenerateOrder_StaticFactoryMethods {
@@ -112,6 +113,7 @@ public class GenerateOrder_StaticFactoryMethods {
 }
 
 ```
+
 ```java
 public class Item_1 {
     public static void main(String[] args){
@@ -125,7 +127,7 @@ public class Item_1 {
         System.out.println(gs3.getAddress());
     }
 }
-
+	
 
 ```
 </details>
@@ -138,7 +140,9 @@ public class Item_1 {
 
 <details>
 <summary>懒汉单例模式</summary>
+
 ```java
+
 public class SingletonDemo_ {
     //懒汉单例模式
 
@@ -155,10 +159,13 @@ public class SingletonDemo_ {
         return singletonDemo_;
     }
 }
+
 ```
+
 </details>
 <details>
 <summary>静态工厂模式</summary>
+
 ```java
 public class SingletonDemo_SFM {
 
@@ -190,6 +197,7 @@ public class SingletonDemo_SFM {
 
 <details>
 <summary>静态工厂返回子类型</summary>
+
 ```java
 public class SingletonDemo_SFM {
 
