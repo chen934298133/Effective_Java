@@ -7,7 +7,7 @@
 <summary>展开</summary>
 
 
-```
+```java
 public class GenerateOrder_Constructor {
 
     private int count;
